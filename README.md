@@ -17,7 +17,7 @@
 ```
 
 > **과목 37 CTF Binary Challenge**  
-> Made by **2023350221 이다연**
+> Made by **??**
 
 ---
 
